@@ -1,5 +1,5 @@
 {
-  "name": "mozjpeg",
+  "name": "@avocode/mozjpeg",
   "version": "4.1.2",
   "description": "mozjpeg wrapper that makes it seamlessly available as a local dependency",
   "license": "MIT",
