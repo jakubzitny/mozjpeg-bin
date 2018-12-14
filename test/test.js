@@ -41,7 +41,8 @@ test('minify a JPG', async t => {
 	const src = path.join(__dirname, 'fixtures/test.jpg');
 	const dest = path.join(tmp, 'test.jpg');
 	const args = [
-		'-outfile', dest,
+		'-outfile',
+		dest,
 		src
 	];
 
